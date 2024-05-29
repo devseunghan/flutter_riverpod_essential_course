@@ -1,4 +1,4 @@
-# dart_data_class_generator
+# flutter_riverpod_essential_course
 
 **Udemy 플랫폼의 Flutter Riverpod Essential 코스** 강의 실습 레파지토리입니다.
 
